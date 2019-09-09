@@ -4,8 +4,8 @@
 # The average of the two numbers, starting with "Average = "
 import random
 print("Nikos")
-randint1 = random.randint(0,101)
-randint2 = random.randint(0,101)
+randint1 = random.randint(0,100)
+randint2 = random.randint(0,100)
 
 
 print(randint1)
